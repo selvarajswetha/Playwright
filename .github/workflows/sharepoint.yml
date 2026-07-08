@@ -1,7 +1,7 @@
 name: Run Playwright from SharePoint
 
 on:
-  repository_dispatch:
+  workflow_dispatch:
     types: [sharepoint_upload]
 
 jobs:
