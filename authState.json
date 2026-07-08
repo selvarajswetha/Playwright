@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "nSGt-B7EBEE42F9FA040411490B5B2D4609F2533AB1B27F29232E",
+      "value": "gYMwMTU2QzNFODY3NTJCNkJFQjk1NzgyMEYzRDNCOUM2RDY0RTg2QTdEOTlCMEZDODAzMEI3RUJFRTQyRjlGQTA0MDQxMTQ5MEI1QjJENDYwOUYyNTMzQUIxQjI3RjI5MjMyRRIxMzQyNzg5Nzg5MzczMjQwNjkcbHV2Y2Fyd2FzaG5ldy5zaGFyZXBvaW50LmNvbQYxOTI2MTMbUHRFN1E2VUZmWUt4X09QNjBvN1BBakc3aGpzKBlG5ezCma2dr6V4bhu2AtK7iW1xQ6dkdZIOK9wzJjNK+UXDu/dnhjnhnwOH4FjnD4KHOI58G+5oaFSmmbbjkYWYrshW/to/T9G1CiLJQE2ggRWOKSm868fFOrxokBmlAiYyeQs5XYuMnD0tgQxa9W8xPRqOAHP9AgVETAmlTN7RXI1cpPWfpODzei0BKVvn8QmAu6Gx3SOGbSnupFsdWe8INgKmK4u5snAFwYtiYNBCNTPr0LWa2ZAbjpzdc2JBkekuRISooGXYwehebkjeyEbZPk32ULKG9anPeUIEIteZ7oFL+v4wpkV3aVPXlJmu/uTy3TiCRT1Q9VpRIuE2cbcAAAA=",
+      "domain": "luvcarwashnew.sharepoint.com",
+      "path": "/",
+      "expires": 1783424294.424281,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "RpsContextCookie",
+      "value": "U291cmNlPSUyRnNpdGVzJTJGbHV2ZG93bnRpbWV0cmFja2luZyUyRlNpdGVQYWdlcyUyRk9mZmxpbmUlMkRUcmFja2VyJTJFYXNweCZQcmV2aW91c1JlcXVlc3RDb3JyZWxhdGlvbklkPTg0ZTgyNGEyJTJEOTA5YyUyRGUwMDAlMkQyYjJiJTJEMDA4NWQ5NjBiYWY0JlJldHVyblVybD0lMkZzaXRlcyUyRmx1dmRvd250aW1ldHJhY2tpbmclMkYlNUZsYXlvdXRzJTJGMTUlMkZBdXRoZW50aWNhdGUlMkVhc3B4JTNGU291cmNlJTNEJTI1MkZzaXRlcyUyNTJGbHV2ZG93bnRpbWV0cmFja2luZyUyNTJGU2l0ZVBhZ2VzJTI1MkZPZmZsaW5lJTI1MkRUcmFja2VyJTI1MkVhc3B4",
+      "domain": "luvcarwashnew.sharepoint.com",
+      "path": "/",
+      "expires": 1783424654.424502,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-ALb7PTiosvY",
+      "value": "AQABCQEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzDQAAAAAAoLw-bkRa0ts0S8oX4NK3bJ6G8sADA2SfQ6uRfZ_M87bbITk9RfTEeniN4YzU11uX4TC7QC8RXWfqtmftAZArOMgDDvWGLHY1SO-i7GyI-WEx8f3WV55XttTTWIpHnp9H2IS1OttXQehgpBhrMo4dmSAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "value": "NA|NoExtension",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SSOCOOKIEPULLED",
+      "value": "1",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1783424114,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "value": "1.AVAADXEZp2G4qUu_WgqR-Gwx8gMAAAAAAPEPzgAAAAAAAAAAAABQAA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAAldaEdwR66HIUB5-5o4lHOyxd1oMGDFV8-Ir-0qRpCKUK6vPFOACc0RZPX5LqWLf2nNDxs6JiJEpDeD27Fs-47lW80LsmT5gwc4Dv-qReaxsgAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1786016055.430209,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "value": "PBgABBwEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzDQAAAAAA1O0DofRE2-d5Xq78fn1kgCaMQIRHJ1dgr8gorcyRQ4vslstw_YeAzYMkRdcuCJs6YJzM_eADBMYTiC9h0NXnJ1erh1Fz_5qK-8BJfxvN93PoC3xVdPh3iShPRt_bxXIzRPnEoZ_Rjq7BxhSXhLJdzqcIqjnFje7Ui--pcxNgmvDnX2Tah2m6UNfgbD3QqJjK6v7GmypZyHoIpS7QxqcXg_IAfsnRuKLfjz-BJXDR5Ir9nhKOKg5d3bji1bfHgNcnpvFXMOBJUUaZEfdv2C-HpPloJqdOEOoixaBrflPySa-Gnhp32QrN3d4nvGdjOV1MXJ_9gh74KWstbXv795Qy6XBrgu-dhHIajnWtT8P56p-ecHtqtqcYFzpo2GxnMtNKwcP8PDOsUA5E8UU3fTaPcRRbiTWaP0ygikbYLyHm5QSOF9G10yCoT61B9OnNXnMrMCrYahhPbVO9-2wbaMFEhgs4SAplGq30HjGrOIx_iycJpE_svQ7G9BvoSrAXL0xAFZvJ_gPAgYepQ78OVqpJqDqiqK3xzk_FGEYn6ZGTgoV-2AJepQEXprPH7rmswL4S1BkHKtHpBQN1GWN32bRHPuwWy0C-AdAGhoNMuxqwN-LfuZIjxZpthXEWDN03hr4KFTzwRTwid8BGDON-53Hx1e70kDl2Pl2-9Spjd7j_tZnzDosoF0Y9ZlBL-wzH1rUn_jATqHjBmc4KsJvWMrrFgJ8u_86KOFnnaASxcov-XuogAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-aFNBi5KFU4",
+      "value": "AQABCQEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzDQAAAAAAdXOxebd_Szz5kgHM3hggSRXHDs1DCyX9DNCAVDyz82NC3aQGbNyiXhMFg2nMiEVtBueXw2m8Is77xOePjcyQPV48saN6HMAGOJWF7pUYmGz4vpGnpDzZjTPCexbNIMv5VKGaQQKLVMkDIQnrm19mriAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "AokzoX-cvWhPukSv5fYKhNDinEHwAQAAADbb3uEOAAAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1786016055.430591,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "value": "a7c25c37deaa4dc1888a8d64ce0bdd1c",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "value": "id=N&lt=1783424055&co=1",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "value": "0",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1817120057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
